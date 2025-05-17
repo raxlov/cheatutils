@@ -14,3 +14,6 @@ Download repo (or just `/common/resources/web` directory), and add JVM argument 
 -Dcheatutils.web.dir=C:\full\path\to\web\directory
 ```
 Now local website uses static files from this directory instead of mod resources.
+
+### Discord Server
+[Unofficial Discord Server](https://discord.gg/jQDdJazFA2) ( this server is made to help / suggest stuff you could upgrade / add )
